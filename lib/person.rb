@@ -4,6 +4,8 @@ class Person
     @person = new+person
   end
   
-  
+  def person
+    new_person
+  end
   
 end
