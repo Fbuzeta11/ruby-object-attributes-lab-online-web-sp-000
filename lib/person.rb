@@ -5,7 +5,7 @@ class Person
   end
   
   def person
-    new_person
+    @person
   end
   
 end
